@@ -13,24 +13,24 @@ public class Homework {
         boolean g = true;
         char h = 'A';
 
-//        System.out.println(a + " byte" );
-//        System.out.println(bb + " short");
-//        System.out.println(c + " int");
-//        System.out.println(dd + " long");
-//        System.out.println(ii + " float");
-//        System.out.println(f + " double");
-//        System.out.println(g + " boolean");
-//        System.out.println(h + " char");
+        System.out.println(a + " byte" );
+        System.out.println(bb + " short");
+        System.out.println(c + " int");
+        System.out.println(dd + " long");
+        System.out.println(ii + " float");
+        System.out.println(f + " double");
+        System.out.println(g + " boolean");
+        System.out.println(h + " char");
 
 
 
-//        byte b = 10;
-//        int i = b;
-//        double d = i;
-//
-//        System.out.println(b);
-//        System.out.println(i);
-//        System.out.println(d);
+        byte b = 10;
+        int i = b;
+        double d = i;
+
+        System.out.println(b);
+        System.out.println(i);
+        System.out.println(d);
 
         double doubleValue = 9.78;
         int intValue = (int) doubleValue;
